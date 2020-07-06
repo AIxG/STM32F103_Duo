@@ -8,6 +8,6 @@ A STM32F103 development board with two USB ports: one as HID and other as UART.
 
 ## Applications
 
-A joystick with extra macro buttons.
+A joystick with extra macro buttons. CNC or 3D printable.
 
 ![joystick](https://raw.githubusercontent.com/AIxG/STM32F103_Duo/master/images/joystick.jpg)

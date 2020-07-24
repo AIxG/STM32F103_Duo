@@ -1,5 +1,5 @@
 # STM32F103_Duo
-A STM32F103 development board with two USB ports: one as HID and other as UART.
+A STM32F103 development board with two USB ports: one as HID and other as UART. It's an extension of [the AIxG UART2HID module](https://github.com/AIxG/UART2HID) and acts as a bridge among games, AI algorithms and mouse/keyboard.
 
 ![STM32F103 Duo top](https://raw.githubusercontent.com/AIxG/STM32F103_Duo/master/images/top.jpg)
 
